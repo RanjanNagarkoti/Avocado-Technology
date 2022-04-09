@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0rem;
+}
+
+.my-container{
+    width: 50%;
+    margin: auto;
+    border: 1px solid gray;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.center{
+    text-align: center;
+}
+
+.warning{
+    color: red;
+}
+
+.my-btn{
+    text-decoration: none;
+}
+
+.my-conainter-width{
+    width: 50%;
+}
+
+.my-btn h2{
+    color: black;
+}
